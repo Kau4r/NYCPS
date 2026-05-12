@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# OMC tooling session state
+.omc/
+
+# Large data file (382 MB — exceeds GitHub's 100 MB limit)
+nyc-property-sales.csv
