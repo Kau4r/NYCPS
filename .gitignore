@@ -12,6 +12,10 @@ __pycache__/
 venv/
 env/
 
+# Build / helper scripts (not project deliverables)
+build_dashboard.py
+export_data.py
+
 # OMC / tooling state
 .omc/
 
